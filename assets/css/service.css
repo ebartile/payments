@@ -1,0 +1,210 @@
+/* CSS Document */
+.notpadd{padding-top:0!important}
+.row.uncollapse{margin-right: -.9375rem;margin-left: -.9375rem;}
+.pp-servicevalue{ padding-top:2rem;}
+.bvalue i{font-size:2rem; border:2px solid #1C1C1C; width:4rem; height:4rem; margin-bottom:.5rem; border-radius:50%;-moz-border-radius:50%; -webkit-border-radius:50%; text-align:center; margin-top:1rem;}
+.bvalue i:before{vertical-align:-50%;}
+.bvalue p{ font-size:1rem; line-height:1.2rem;}
+.input-group input{ margin-bottom:0;}
+.pp-status,.ftpadd{padding-top:1.25rem;}
+div.form-horizontal{ max-width:50%;}
+.form-group select{ margin-bottom:1rem;}
+table.dl-horizontal th{ text-transform:capitalize; text-align:right;}
+span.poweredby{display:block; max-height:60px; overflow:hidden;}
+
+
+.in-header {border-bottom:1px solid #dadada;}
+.in-header .sleft, .in-header .sright{ padding-bottom:.8rem; }
+.in-header .sright{ border:1px solid #dadada; border-width:0 0 0 1px;}
+.in-header .mlogo{ margin:0 .3rem; text-align:center;}
+.in-header .mlogo img{ max-width:100%;}
+.in-header .mlogo h4{ font-size:1rem; margin:.4rem 0 0 0; padding:0;}
+.in-header  h4 a{ color:#333;}
+.in-header h2{ margin:.5rem 0 .8rem 0; padding:0; font-size:1.6rem; text-transform:uppercase;}
+.in-header h3{margin:0; padding:0; font-size:1.6rem; text-transform:uppercase;}
+.in-header span{ display:block; font-size:.9rem; line-height:1rem;}
+
+.in-details{padding:.8rem 0 0 0; border-bottom:1px solid #dadada;}
+.in-details h5{ margin:0 0 .3rem 0; padding:0; font-size:.9rem; text-transform:uppercase;}
+.in-details .det p{ line-height:1rem; font-size:.9rem; margin-bottom:.8rem;}
+.in-details small{ display:block; text-transform:uppercase; margin-bottom:.2rem;}
+.in-details .amt span, .in-details .pnd span{ font-size:1.3rem; font-weight:600;}
+.in-details .amt,.in-details .pnd{border:1px solid #dadada; margin-bottom:.8rem;}
+.in-details .column{padding-top:.4rem; padding-bottom:.4rem;}
+.in-details legend,.in-payment legend { margin: 0 1.5%;  width: 97%;  border: none!important;}
+
+.in-payment,.in-list,.in-share{ padding-top:.5rem}
+.in-payment #jform_currency{ border-right:none;}
+.in-payment .button{ margin-right:.7rem}
+
+.in-details .menu > li { padding:0 .1rem;}
+.in-details .menu > li > a{ color:#262626; padding:.2rem .3rem;}
+.in-details .menu > li.active > a{ color:#1e62a6; border-bottom:2px solid #1e62a6; background:none;}
+.in-details .menu > li i{ font-size:2rem;}
+.in-details .menu > li i:before{ margin-left:-.5rem}
+.tdetails small{ display:block; line-height:1.1rem; margin-top:1rem; font-size:.8rem;}
+.tdetails .callout{ line-height:1.3rem; font-size:.9rem;}
+.tdetails .button{ padding:.3rem .7rem;}
+.paddnone{ margin:1rem -1.25rem -1rem -1.25rem;}
+
+/*Tabs style*/
+.in-payment .ui-tabs{padding:0;}
+.in-payment .ui-tabs .ui-tabs-nav .ui-tabs-anchor { padding:.5rem .4rem;}
+.in-payment .methods-list li a{ font-size:.85rem}
+.tabswrapper .validation-summary-errors{ margin:1rem 0 0 0; font-size:.9rem}
+.ui-widget.ui-widget-content { border:none;}
+.ui-tabs .ui-tabs-panel { padding:.5rem 0;}
+.tabswrapper .ui-tabs-panel { padding:1rem 0;}
+#countryTabs fieldset{ border:1px solid #dadada; border-width:0 1px 0 0;}
+#countryTabs fieldset legend{ display:none;}
+#countryTabs fieldset p{ margin-bottom:0;}
+#countryTabs .form-group select{ margin:0 0 1rem 0;}
+.country-list{ padding:0!important; border-width:0 0 1px 0!important; background:#fff!important;}
+.methods-list{ padding:0 .4rem!important; border-width:0 0 1px 0!important; background:#fff!important;}
+.country-list li{ border:none!important; padding:0 .1rem!important; background:#fff!important;}
+.country-list li a{background:#fff!important; padding-bottom:.3rem!important; font-size:.9rem}
+.country-list .ui-state-active a, .country-list .ui-state-active a:link, .country-list .ui-state-active a:visited {color:#1e62a6!important; border-bottom:2px solid #1e62a6;}
+.country-list li i{ font-size:2rem;}
+.country-list li i:before{ margin-left:-.5rem; vertical-align:-25%;}
+
+/*Bills & Fees*/
+.pp-body.src .slidearea{ padding:3rem 0 7rem 0; position:relative;}
+.pp-body.src .slidearea h2{ font-size:2rem;}
+.pp-body.src .slidearea ul{ list-style:none; margin:.7rem 0; padding:0;}
+.pp-body.src .slidearea li{ line-height:2rem;}
+.pp-body.src .slidearea li i{ color:#2b9706; font-size:1.3rem;}
+.pp-body.src .slidearea li i:before{ vertical-align:-20%;}
+.pp-body.src .slidearea .button{font-size: 1.1rem; padding: 0.8rem 1.5rem; margin:.7rem 0 1.4rem;}
+.pp-body.pb .slidearea{ background:url(../img/payments-billsv2-2.jpg) center center; background-size:cover; background-repeat:no-repeat;}
+.pp-body.sf .slidearea{ background:url(../img/school-fees-2.jpg) center center; background-size:cover; background-repeat:no-repeat; }
+.pp-body.src .downarr{ position:absolute; left:50%; font-size:3rem; bottom:-1.2rem; }
+.alert.alert-info{ margin:0 0 .4rem 0;}
+
+/*Simple Selling*/
+.in-header .store h2{ margin-bottom:.5rem;}
+.in-header .store h4{ margin-bottom:0;}
+.productWrap{ padding:.7rem 0; border-bottom:1px solid #ddd}
+.productDesc h2,.in-list h2,.in-list h3{ font-size:1.2rem; font-weight:bold; font-family: 'Nunito', sans-serif; margin:0; padding:0;}
+.productDesc h2 a,.in-list h2 a,.in-list h3 a{ color:#333;}
+.productDesc .productPrice{font-size:1.2rem; font-weight:bold;}
+.productImg img{max-width:100%;}
+.in-share h3{ font-size:1.2rem}
+.shbtn,.shbtn:hover,.shbtn:focus,.shbtn:active{ padding:.3rem .7rem; color:#fff; margin:0 .3rem .7rem 0; display:inline-block;}
+.shbtn i{ margin-top:.3rem}
+.shbtn.fb{background:#3b5e93;}
+.shbtn.tw{background:#3a88a3;}
+.shbtn.ln{background:#0077b5;}
+.shbtn.gp{background:#b13c1f;}
+.shbtn.wp{background:#2cb53f;}
+.in-list thead{display:none!important}
+.in-list td{ border-width:0 0 1px 0; padding:.7rem 0;}
+.in-list table tbody{ border:none;}
+.in-list table tbody tr:nth-child(2n) { background-color:#FFF;}
+
+/* styles for validation helpers */
+form label{ text-transform:capitalize;}
+form label a{text-transform:none;}
+.field-validation-error {color: #b94a48;}
+.field-validation-valid {display: none;}
+input.input-validation-error {border: 1px solid #b94a48;}
+input[type="checkbox"].input-validation-error {border: 0 none;}
+.validation-summary-errors {color: #b94a48;}
+.validation-summary-errors ul{ margin-bottom:0px; padding-bottom:0px;}
+.validation-summary-valid { display: none;}
+.nodisplay{display:none}
+.resp-tabs-container label.radio.inline,.colrow label.radio.inline{ padding-left:10px; padding-right:10px;-moz-border-radius: 5px; -webkit-border-radius: 5px; -khtml-border-radius: 5px;  border-radius: 5px; border-top-left-radius:5px; border-top-right-radius:5px; border-bottom-right-radius:5px; border-bottom-left-radius:5px; border:1px solid #d7d7d7;  margin:0 5px 10px 0!important; display:inline-block;}
+.COMPLETED{background:#DFF0D8;color:#468847;margin-top:0px;padding:10px;border:1px solid #D6E9C6}
+.PENDING{background:#fee9d4;color:#e1890b;margin-top:0px;padding:10px;border:1px solid #f89224}
+.FAILED{background:#F2DEDE;color:#B94A48;margin-top:0px;padding:10px;border:1px solid #EED3D7}
+.confirm{background:#daf3d3;color:#2d8710;margin-top:0px;padding:10px;border:1px solid #2f8f11}
+.pp-cshare{ margin:1rem 0 2rem;}
+.btn-fb,.btn-tw,.btn-gp,.btn-fb:hover,.btn-tw:hover,.btn-gp:hover{color:#fff; padding:.3rem .5rem; margin:0 .1rem; font-size:.8rem}
+.btn-fb{background-color:#3b5e93;}
+.btn-tw{background-color:#3a88a3;}
+.btn-gp{background-color:#b13c1f;}
+.bilcountry{ float:right; padding-top:10px; }
+#selcountry{ min-width:110px!important}
+#selcountry label{ line-height:1.2!important; font-size:0.7rem!important; text-transform:uppercase;}
+#selcountry .dd-option label{ font-size:0.7rem!important}
+.psteps{ margin:0; padding:.8rem 0 .2rem 0; border-bottom:1px solid #DDD;}
+.psteps h4{ margin:0; line-height:1rem;}
+.psteps h4 i{ color:#2b9706; font-size:1.3rem; font-weight:bold;}
+.psteps small{ display:block; padding:5px; color:#878787;}
+.psteps .done small{ padding-top:2px; color:#2b9706;}
+.psteps .active small{ color:#2d2d2d;}
+.paymethods{ border-top:1px solid #DDD; text-align:center; padding:1.5rem;}
+.paymethods img{ margin:0 .3rem;}
+.expl{ padding-top:3rem}
+.expl p{ font-style:italic; line-height:1.3rem; font-size:.95rem}
+.expl img{ margin-top:.4rem}
+
+/*Contentblock*/
+#pp-updates,.list-schools{ background:#FFF; margin-top:3rem}
+.list-schools{ padding:3rem 0;}
+.pp-contentblock{padding: 3.8rem 0 5rem 0; border-top:1px solid #DDD;}
+.btext h3{ font-size:1.4rem;}
+.btext p{ color:#222;}
+.bright .bimg{ float:right; text-align:center;}
+.btxt h3{ font-size:2.3rem; }
+.btxt p{ color:#222; padding-top:.5rem; padding-bottom:.7rem;}
+.btxt h3 i{ font-size:1.2em; }
+
+/*Listblock*/
+.list-schools{border:1px solid #DDD; border-width:1px 0;}
+.list-schools h3,.list-schools h5{ text-align:center}
+.list-schools ul{ margin:0; padding:0; list-style:none; text-transform:uppercase; text-align:center;}
+#alphabet li{ display:inline-block; margin:0 .3rem .7rem .3rem; }
+#alphabet li a{padding:0 .3rem; display:inline-block; color:#1468a0; }
+#alphabet li.active a{ background:#1468a0; color:#FFF;}
+.div-list li a{ text-align:left; display:block; color:#252525; font-size:.85rem}
+.borderrl{ border:1px solid #ddd; border-width:0 1px 0 0;}
+
+/* Small only */
+@media screen and (max-width: 39.9375em) {
+.pp-serviceblock{ margin-top:-.2rem;}
+.in-details .column{border-width:1px 0 0 0; }
+#countryTabs fieldset{ padding:0 0 .7rem 0; border-width:0 0 1px 0;}
+.pp-body.src .slidearea{ background-image:none!important; padding:.7rem;}
+.resp-tabs-list li { max-width:28%; padding-left:2%!important; padding-right:2%!important; line-height:1.1em;}
+.resp-tabs-list li:last-child span{ padding-left:5px!important; padding-right:5px!important;}
+.row.uncollapse{margin-right: -.625rem; margin-left: -.625rem;}
+.borderrl{border:none;}
+.borderrl ul{}
+.in-header  h2{ margin-bottom:.5rem;}
+.in-header  h4{ margin-bottom:0;}
+/*SimpleSelling*/
+.productDesc h2{ font-size:1.4rem;}
+.productImg{ text-align:center; margin-bottom:1rem}
+.pp-serviceblock.ss .invoice,.pp-serviceblock.in .invoice{padding-top:.625rem}
+
+}
+
+/* Medium and up */
+@media screen and (min-width: 40em) {
+.pp-serviceblock{ margin-top:2rem;}	
+.pp-serviceblock.pb, .pp-serviceblock.sf{ margin-top:-3.9rem; position:relative; z-index:3}
+.in-details .amt{border-width:0 0 0 1px;}
+.in-details .pnd{border-width:0 0 0 1px;}
+.sleft{ /*border-right:1px solid #DDD;*/}
+}
+
+/* Medium only */
+@media screen and (min-width: 40em) and (max-width: 64em) {
+.in-details .amt span, .in-details .pnd span{ font-size:1.1rem;}
+}
+
+/* Large and up */
+@media screen and (min-width: 64.12em) {
+	.expl{ padding:2rem 1.8rem 3rem 1.8rem; }
+	/*Contentblock*/
+	.bright .btxt{ padding-right:4rem}
+	.bleft .btxt{padding-right:5rem}
+}
+
+/* Large only */
+@media screen and (min-width: 64em) and (max-width: 74.9375em) {
+	
+}
+
+@media screen and (min-width: 75em){
+}

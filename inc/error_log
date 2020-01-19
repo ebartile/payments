@@ -1,0 +1,40 @@
+[28-Aug-2019 04:53:46 UTC] PHP Notice:  Undefined offset: 3 in /home/paymentprocessor/public_html/demos/downloads/Payments-version-2-0-1-2/inc/currency_rates.php on line 14
+[28-Aug-2019 04:54:09 UTC] PHP Notice:  Undefined index: rates in /home/paymentprocessor/public_html/demos/downloads/Payments-version-2-0-1-2/inc/currency_rates.php on line 14
+[28-Aug-2019 04:56:59 UTC] PHP Notice:  Undefined variable: val in /home/paymentprocessor/public_html/demos/downloads/Payments-version-2-0-1-2/inc/currency_rates.php on line 21
+[28-Aug-2019 04:57:38 UTC] PHP Notice:  Undefined variable: val in /home/paymentprocessor/public_html/demos/downloads/Payments-version-2-0-1-2/inc/currency_rates.php on line 21
+[28-Aug-2019 04:57:38 UTC] PHP Warning:  Missing argument 2 for currencyConverter(), called in /home/paymentprocessor/public_html/demos/downloads/Payments-version-2-0-1-2/inc/currency_rates.php on line 21 and defined in /home/paymentprocessor/public_html/demos/downloads/Payments-version-2-0-1-2/inc/currency_rates.php on line 3
+[28-Aug-2019 04:57:38 UTC] PHP Warning:  Missing argument 3 for currencyConverter(), called in /home/paymentprocessor/public_html/demos/downloads/Payments-version-2-0-1-2/inc/currency_rates.php on line 21 and defined in /home/paymentprocessor/public_html/demos/downloads/Payments-version-2-0-1-2/inc/currency_rates.php on line 3
+[28-Aug-2019 04:57:38 UTC] PHP Notice:  Undefined variable: from_currency in /home/paymentprocessor/public_html/demos/downloads/Payments-version-2-0-1-2/inc/currency_rates.php on line 5
+[28-Aug-2019 04:57:38 UTC] PHP Notice:  Undefined variable: to_currency in /home/paymentprocessor/public_html/demos/downloads/Payments-version-2-0-1-2/inc/currency_rates.php on line 6
+[28-Aug-2019 04:57:38 UTC] PHP Notice:  Undefined variable: from_currency in /home/paymentprocessor/public_html/demos/downloads/Payments-version-2-0-1-2/inc/currency_rates.php on line 10
+[28-Aug-2019 04:57:38 UTC] PHP Notice:  Undefined variable: to_currency in /home/paymentprocessor/public_html/demos/downloads/Payments-version-2-0-1-2/inc/currency_rates.php on line 10
+[28-Aug-2019 04:59:16 UTC] PHP Notice:  Undefined index: timestamp in /home/paymentprocessor/public_html/demos/downloads/Payments-version-2-0-1-2/inc/currency_rates.php on line 14
+[28-Aug-2019 05:02:28 UTC] PHP Notice:  Undefined index: rates in /home/paymentprocessor/public_html/demos/downloads/Payments-version-2-0-1-2/inc/currency_rates.php on line 14
+[28-Aug-2019 05:05:17 UTC] PHP Notice:  Undefined index: rates in /home/paymentprocessor/public_html/demos/downloads/Payments-version-2-0-1-2/inc/currency_rates.php on line 14
+[28-Aug-2019 05:08:51 UTC] PHP Notice:  Undefined index: rates in /home/paymentprocessor/public_html/demos/downloads/Payments-version-2-0-1-2/inc/currency_rates.php on line 14
+[28-Aug-2019 05:08:58 UTC] PHP Notice:  Undefined variable: from_currency in /home/paymentprocessor/public_html/demos/downloads/Payments-version-2-0-1-2/inc/test.php on line 3
+[28-Aug-2019 05:08:58 UTC] PHP Notice:  Undefined variable: to_currency in /home/paymentprocessor/public_html/demos/downloads/Payments-version-2-0-1-2/inc/test.php on line 3
+[28-Aug-2019 05:08:58 UTC] PHP Notice:  Undefined offset: 0 in /home/paymentprocessor/public_html/demos/downloads/Payments-version-2-0-1-2/inc/test.php on line 7
+[28-Aug-2019 05:09:28 UTC] PHP Notice:  Undefined index: rates in /home/paymentprocessor/public_html/demos/downloads/Payments-version-2-0-1-2/inc/test.php on line 7
+[28-Aug-2019 05:10:54 UTC] PHP Notice:  Undefined index: Array in /home/paymentprocessor/public_html/demos/downloads/Payments-version-2-0-1-2/inc/test.php on line 7
+[28-Aug-2019 05:12:21 UTC] PHP Notice:  Undefined index: base in /home/paymentprocessor/public_html/demos/downloads/Payments-version-2-0-1-2/inc/test.php on line 7
+[28-Aug-2019 05:13:44 UTC] PHP Warning:  fwrite() expects parameter 2 to be string, array given in /home/paymentprocessor/public_html/demos/downloads/Payments-version-2-0-1-2/inc/test.php on line 9
+[28-Aug-2019 05:16:08 UTC] PHP Notice:  Undefined offset: 0 in /home/paymentprocessor/public_html/demos/downloads/Payments-version-2-0-1-2/inc/currency_rates.php on line 14
+[28-Aug-2019 05:16:54 UTC] PHP Warning:  Illegal string offset 'success' in /home/paymentprocessor/public_html/demos/downloads/Payments-version-2-0-1-2/inc/currency_rates.php on line 14
+[28-Aug-2019 05:16:54 UTC] PHP Warning:  Illegal string offset 'rates' in /home/paymentprocessor/public_html/demos/downloads/Payments-version-2-0-1-2/inc/currency_rates.php on line 14
+[28-Aug-2019 05:16:54 UTC] PHP Warning:  Illegal string offset 'value' in /home/paymentprocessor/public_html/demos/downloads/Payments-version-2-0-1-2/inc/currency_rates.php on line 14
+[28-Aug-2019 05:17:33 UTC] PHP Warning:  Illegal string offset 'rates' in /home/paymentprocessor/public_html/demos/downloads/Payments-version-2-0-1-2/inc/currency_rates.php on line 14
+[28-Aug-2019 05:17:33 UTC] PHP Warning:  Illegal string offset 'value' in /home/paymentprocessor/public_html/demos/downloads/Payments-version-2-0-1-2/inc/currency_rates.php on line 14
+[28-Aug-2019 05:41:56 UTC] PHP Notice:  Undefined variable: rate in /home/paymentprocessor/public_html/demos/downloads/Payments-version-2-0-1-2/inc/currency_rates.php on line 27
+[28-Aug-2019 05:41:56 UTC] PHP Notice:  Undefined variable: _SESSION in /home/paymentprocessor/public_html/demos/downloads/Payments-version-2-0-1-2/inc/currency_rates.php on line 5
+[28-Aug-2019 05:41:56 UTC] PHP Notice:  Undefined variable: mysqli in /home/paymentprocessor/public_html/demos/downloads/Payments-version-2-0-1-2/inc/currency_rates.php on line 6
+[28-Aug-2019 05:41:56 UTC] PHP Fatal error:  Call to a member function query() on null in /home/paymentprocessor/public_html/demos/downloads/Payments-version-2-0-1-2/inc/currency_rates.php on line 6
+[28-Aug-2019 05:42:57 UTC] PHP Notice:  Undefined variable: rate in /home/paymentprocessor/public_html/demos/downloads/Payments-version-2-0-1-2/inc/currency_rates.php on line 9
+[28-Aug-2019 05:43:36 UTC] PHP Notice:  Undefined variable: rate in /home/paymentprocessor/public_html/demos/downloads/Payments-version-2-0-1-2/inc/currency_rates.php on line 9
+[28-Aug-2019 05:48:29 UTC] PHP Warning:  require_once(./php/dbconnect.php): failed to open stream: No such file or directory in /home/paymentprocessor/public_html/demos/downloads/Payments-version-2-0-1-2/inc/currency_rates.php on line 3
+[28-Aug-2019 05:48:29 UTC] PHP Fatal error:  require_once(): Failed opening required './php/dbconnect.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/paymentprocessor/public_html/demos/downloads/Payments-version-2-0-1-2/inc/currency_rates.php on line 3
+[28-Aug-2019 05:48:56 UTC] PHP Notice:  Undefined variable: mysqli in /home/paymentprocessor/public_html/demos/downloads/Payments-version-2-0-1-2/inc/currency_rates.php on line 9
+[28-Aug-2019 05:48:56 UTC] PHP Fatal error:  Call to a member function query() on null in /home/paymentprocessor/public_html/demos/downloads/Payments-version-2-0-1-2/inc/currency_rates.php on line 9
+[28-Aug-2019 06:01:10 UTC] PHP Warning:  Missing argument 1 for currencyConverter(), called in /home/paymentprocessor/public_html/demos/downloads/Payments-version-2-0-1-2/inc/currency_rates.php on line 32 and defined in /home/paymentprocessor/public_html/demos/downloads/Payments-version-2-0-1-2/inc/currency_rates.php on line 6
+[28-Aug-2019 06:01:10 UTC] PHP Warning:  Missing argument 2 for currencyConverter(), called in /home/paymentprocessor/public_html/demos/downloads/Payments-version-2-0-1-2/inc/currency_rates.php on line 32 and defined in /home/paymentprocessor/public_html/demos/downloads/Payments-version-2-0-1-2/inc/currency_rates.php on line 6
+[28-Aug-2019 06:01:10 UTC] PHP Notice:  Undefined variable: rate in /home/paymentprocessor/public_html/demos/downloads/Payments-version-2-0-1-2/inc/currency_rates.php on line 27

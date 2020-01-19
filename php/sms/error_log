@@ -1,0 +1,5 @@
+[05-Nov-2019 09:25:45 America/Chicago] PHP Warning:  include_once(../php/dbconnect.php): failed to open stream: No such file or directory in /home/binitoo/public_html/php/sms/send.php on line 3
+[05-Nov-2019 09:25:45 America/Chicago] PHP Warning:  include_once(): Failed opening '../php/dbconnect.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/binitoo/public_html/php/sms/send.php on line 3
+[05-Nov-2019 09:25:45 America/Chicago] PHP Warning:  include_once(../php/functions.php): failed to open stream: No such file or directory in /home/binitoo/public_html/php/sms/send.php on line 4
+[05-Nov-2019 09:25:45 America/Chicago] PHP Warning:  include_once(): Failed opening '../php/functions.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/binitoo/public_html/php/sms/send.php on line 4
+[05-Nov-2019 09:26:14 America/Chicago] PHP Notice:  Undefined variable: phone in /home/binitoo/public_html/php/sms/send.php on line 13

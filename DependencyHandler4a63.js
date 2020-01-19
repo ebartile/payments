@@ -1,0 +1,2 @@
+﻿(function($){$('.getbtn').click(function(){if($('.pp-cright').hasClass("activeview")){$('.pp-cright').slideUp();$('.pp-cright').removeClass("activeview")}else{$('.pp-cright').slideDown();$('.pp-cright').addClass("activeview")}});})(jQuery);
+;;;
